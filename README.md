@@ -1,5 +1,5 @@
 # KIT202
-The default Manager's username/email is 'manager@utas.abs.com', password is 'password'.
+The default Manager's username/email is 'manager@utas.abs.com', password is 'password'.\n
 Test client account username/email is 'testclient@utas.abs.com', password is 'password'.
 Test host account username/email is 'testhost@utas.abs.com', password is 'password'.
 
