@@ -1,7 +1,7 @@
 # KIT202
-The default Manager's username/email is 'manager@utas.abs.com', password is 'password'.
-Test client account username/email is 'testclient@utas.abs.com', password is 'password'.
-Test host account username/email is 'testhost@utas.abs.com', password is 'password'.
+The default Manager's username/email is 'manager@utas.abs.com', password is 'password'.<br>
+Test client account username/email is 'testclient@utas.abs.com', password is 'password'.<br>
+Test host account username/email is 'testhost@utas.abs.com', password is 'password'.<br>
 
 The ID of the new row created will be automatic use the highest ID number +1 as the new ID. So in the database, each table must have at least 1 row of data to start with, recommend to make the default accommodation and user start with ID 100 to leave space for further operations.
 
