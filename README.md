@@ -1,4 +1,6 @@
 # KIT202
+This is a group assignment project for KIT202 at the University of Tasmania.<br>
+
 The default Manager's username/email is 'manager@utas.abs.com', password is 'password'.<br>
 Test client account username/email is 'testclient@utas.abs.com', password is 'password'.<br>
 Test host account username/email is 'testhost@utas.abs.com', password is 'password'.<br>
