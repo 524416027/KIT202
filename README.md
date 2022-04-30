@@ -10,3 +10,5 @@ The ID of the new row created will be automatic use the highest ID number +1 as 
 The rate number section of the user must be greater than 0, the total rate must be greater than 1, do not manually change it.
 
 Press the left top corner 'Utas ABS' to return to index page.
+
+Walk through video: https://www.youtube.com/watch?v=jjmxy3VM-EY
